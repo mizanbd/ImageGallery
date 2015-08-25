@@ -1,0 +1,5 @@
+F:\C#\Ongoing\BasicProjects\BasicProjects\bin\BasicProjects.dll.config
+F:\C#\Ongoing\BasicProjects\BasicProjects\bin\BasicProjects.dll
+F:\C#\Ongoing\BasicProjects\BasicProjects\bin\BasicProjects.pdb
+F:\C#\Ongoing\BasicProjects\BasicProjects\obj\Debug\BasicProjects.dll
+F:\C#\Ongoing\BasicProjects\BasicProjects\obj\Debug\BasicProjects.pdb
